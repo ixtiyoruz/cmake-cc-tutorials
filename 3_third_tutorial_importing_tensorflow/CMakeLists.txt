@@ -10,7 +10,7 @@ set(CMAKE_CXX_STANDARD 11)
 
 set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 
-link_directories(${TENSORFLOW_BUILD_DIR})
+link_directories(${TENSORFLOW_BUILD_DIR})   
 add_subdirectory(src)
 
 
