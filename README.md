@@ -16,7 +16,7 @@ bazel build --jobs=12 --config opt --config cuda  --config monolithic tensorflow
 
 and some useful links:
 
-1.git commands 
+1. git commands 
 
 https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
 
