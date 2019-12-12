@@ -19,6 +19,7 @@ and some useful links:
 1.git commands 
 
 https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
+
 2. easy way to use hungarian algorithm in python:
 
 https://docs.scipy.org/doc/scipy-0.18.1/reference/generated/scipy.optimize.linear_sum_assignment.html
