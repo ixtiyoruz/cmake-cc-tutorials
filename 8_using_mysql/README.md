@@ -3,11 +3,17 @@ this is an example usage of mysql in c++
 
 
 first of all if the mysql service is not running run it by:
+
 sudo systemctl start mysql
+
 if you want mysql should start after reboot do it :
+
 sudo systemctl enable mysql
+
 and then enter mysql environment in terminal:
+
 /usr/bin/mysql -u root -p
+
 and type your password to enter.
 
 ref:
