@@ -12,6 +12,10 @@ agar git username va passwordni saqlab qolmoqchi bo'lsangiz:
 <pre>
 git config credential.helper store
 </pre>
+agar untracked files ni ko'rmoqchi bo'lsangiz :
+<pre>
+git ls-files --others --exclude-standard
+</pre>
 tensorflowni o'rnatish uchun configuratsiyadan keyin quyidagi commanda bilan build qiling:
 <pre>
 bazel build --jobs=12 --config opt --config cuda  --config monolithic tensorflow:libtensorflow_cc.so
