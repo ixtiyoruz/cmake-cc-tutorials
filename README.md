@@ -5,7 +5,7 @@ git dan foydalanish
 
 tezkor :
 <pre>
-git commit -a
+git commit -a yoki git commit -am "<commit message>"
 git push origin
 </pre>
 agar git username va passwordni saqlab qolmoqchi bo'lsangiz:
